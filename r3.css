@@ -1,0 +1,27 @@
+#wrapper
+{ 
+    width: 900px;
+    height: 400px;
+    margin: auto;
+}
+#box1
+{
+    float: left;
+    width: 300px;
+    height: 200px;
+    background-color: #d82cf2;
+}
+#box2
+{
+    float: left;
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+}
+#box3
+{
+    float: left;
+    width: 300px;
+    height: 200px;
+    background-color: orange;
+}

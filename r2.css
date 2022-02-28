@@ -1,0 +1,29 @@
+.topheading
+{
+    width: 1000px;
+    height: 150px;
+    background-color:#e643db ;
+    margin: auto;
+}
+.topmenu
+{
+    width: 1000px;
+    height: 50px;
+    background-color:#e3dee3 ;
+    margin: auto;
+}
+.data
+{
+    width: 1000px;
+    height: 400px;
+    background-color: #2cf2ba;
+    margin: auto;
+
+} 
+.footer
+{
+    width: 1000px;
+    height: 100px;
+    background-color: #f2d82c;
+    margin: auto;
+} 

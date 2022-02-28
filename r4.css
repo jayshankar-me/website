@@ -1,0 +1,68 @@
+#wrapper
+{
+    margin: auto;
+    width: 1000px;
+    <!border-style: outset;>
+    <!border-color: red;>
+}
+#header
+{
+    width: 1000px;
+    height: 150px;
+    background-color: pink;
+}
+#logo
+{
+    float: left;
+    width: 200px;
+    height: 150px;
+    background-color: yellow;
+}
+#topimage
+{
+    float: left;
+    width: 800px;
+    height: 150px;
+    background-color: limegreen;
+}
+#seprater
+{
+    height: 10px;
+}
+#content
+{
+    margin: auto;
+    padding-left: 20px;
+    text-align: center;
+    width: 900px;
+    height: 400px;
+}
+#box1
+{
+    float: left;
+    width: 31%;
+    height: 400px;
+    background-color: lightgrey;
+}
+#box2
+{
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+    width: 31%;
+    height: 400px;
+    background-color: lightblue;
+}
+#box3 
+{
+    float: left;
+    width: 31%;
+    height: 400px;
+    background-color: black;
+}
+#footer
+{
+    width: 1000px;
+    height: 100px;
+    background-color: lightpink;
+}
